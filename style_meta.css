@@ -1,0 +1,19 @@
+body {
+    background-color: #9af8ff;
+   }
+
+.div1 {
+    background-color: rgb(215, 215, 255);
+    text-align: center;
+}
+
+#navbar {
+    text-align: center;
+    width: 100%;
+    border: 5px solid black;
+}
+
+.textik {
+    text-align: center;
+}
+
