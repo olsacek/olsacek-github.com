@@ -17,3 +17,13 @@ body {
     text-align: center;
 }
 
+.motto {
+    text-align: center;
+    font-style: italic;
+}
+
+.epictable {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
